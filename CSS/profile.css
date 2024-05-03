@@ -1,0 +1,9 @@
+#bg{
+    width:-webkit-fill-available;
+    opacity: .5;
+}
+body{
+    margin: 0;
+    /* background-color: rgb(87, 197, 19); */
+    z-index: 1;
+}
